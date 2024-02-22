@@ -6,6 +6,7 @@ func main() {
 	fmt.Println(sum(2, 2))
 }
 
+// running gate newly
 func sum(a int, b int) int {
 	return a + b
 }
